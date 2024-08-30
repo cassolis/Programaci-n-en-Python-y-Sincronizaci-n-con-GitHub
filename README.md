@@ -1,2 +1,2 @@
-# Programaci-n-en-Python-y-Sincronizaci-n-con-GitHub
+# Programacion-en-Python-y-Sincronizacion-con-GitHub
 Búsqueda y Ordenación en Arreglos Multidimensionales
